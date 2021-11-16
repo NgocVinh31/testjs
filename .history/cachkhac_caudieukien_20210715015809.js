@@ -1,0 +1,1 @@
+let age=Number(prompt("nhập tuổi của bạn"));

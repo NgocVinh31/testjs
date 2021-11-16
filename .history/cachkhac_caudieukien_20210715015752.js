@@ -1,0 +1,1 @@
+let age=prompt("nhập tuổi của bạn")

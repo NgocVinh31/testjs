@@ -1,0 +1,1 @@
+//bài 1 viết hàm tìm và in ra

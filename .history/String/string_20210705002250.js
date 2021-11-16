@@ -1,0 +1,16 @@
+// các cách viết string 
+"hello world";
+'hello wordl';
+`hello world`;
+
+// có 3 cách string theo 3 dấu ngoặc "" '' ``
+// nhưng thường có 2 cách dùng là phổ biến la "" ``;
+// "" thường dùng với tạo biến string bình thường không kết hợp 
+// còn `` là dùng với khi muốn chuỗi kết hợp với biến khác
+
+
+const string1="hello world";
+const name="vinh;"
+const number= 5;
+const string2="tên tôi là : "+ name+" và t có tuổi là: " + 
+console.log(string1);
